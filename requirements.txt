@@ -1,0 +1,65 @@
+absl-py==1.4.0
+aiohttp==3.8.5
+aiosignal==1.3.1
+async-timeout==4.0.3
+attrs==23.1.0
+backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1687772187254/work
+Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1687884021435/work
+cachetools==5.3.1
+certifi==2023.7.22
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1688813409104/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+contourpy==1.1.0
+cycler==0.11.0
+fonttools==4.42.1
+frozenlist==1.4.0
+fsspec==2023.6.0
+ftfy @ file:///home/conda/feedstock_root/build_artifacts/ftfy_1647200718722/work
+google-auth==2.22.0
+google-auth-oauthlib==1.0.0
+grpcio==1.57.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+importlib-metadata==6.8.0
+importlib-resources==6.0.1
+kiwisolver==1.4.5
+lightning-utilities==0.9.0
+Markdown==3.4.4
+MarkupSafe==2.1.3
+matplotlib==3.7.2
+mkl-fft==1.3.1
+mkl-random==1.2.2
+mkl-service==2.4.0
+multidict==6.0.4
+numpy @ file:///croot/numpy_and_numpy_base_1682520569166/work
+oauthlib==3.2.2
+opencv-python==4.8.0.76
+packaging==23.1
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1675487152289/work
+protobuf==4.24.1
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pyDeprecate==0.3.2
+pyparsing==3.0.9
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil==2.8.2
+pytorch-lightning==1.7.3
+PyYAML==6.0.1
+regex @ file:///home/conda/feedstock_root/build_artifacts/regex_1691538823889/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+requests-oauthlib==1.3.1
+rsa==4.9
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tensorboard==2.14.0
+tensorboard-data-server==0.7.1
+thop==0.1.1.post2209072238
+torch==1.13.1
+torchaudio==0.13.1
+torchmetrics==1.0.3
+torchvision==0.14.1
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1691671248568/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
+urllib3==1.26.16
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1673864653149/work
+Werkzeug==2.3.7
+yarl==1.9.2
+zipp==3.16.2
